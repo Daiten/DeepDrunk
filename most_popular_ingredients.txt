@@ -1,0 +1,433 @@
+Beer
+Ale
+Barleywine
+Bitter ale
+Brown ale
+Cask ale
+Mild ale
+Old ale
+Pale ale
+Scotch ale
+Porter
+Stout
+Stock ale
+Fruit beer
+Lager
+Pale lager
+Bock
+Maerzen/Oktoberfest Beer
+Pilsener
+Schwarzbier
+Sahti
+Small beer
+Wheat beer
+Witbier
+Cauim
+Cheongju
+Chicha
+Cider
+Perry
+Plum jerkum
+Desi daru
+Huangjiu
+Icariine liquor
+Kasiri
+Kilju
+Kumis
+Makgeolli
+Mead
+Nihamanchi
+Palm wine
+Parakari
+Pulque
+Sake
+Sakurá
+Sato
+Sonti
+Tapuy
+Tepache
+Tiswin
+Tonto
+Wine
+Fortified wine
+Port
+Madeira
+Marsala
+Sherry
+Vermouth
+Vinsanto
+Fruit wine
+Table wine
+Sangria
+Sparkling wine
+Champagne
+Arrack
+Cachaça
+Horilka
+Rum
+Puncheon rum
+Rhum agricole
+Applejack
+Borovička
+Calvados
+Lambig
+Eau-de-vie
+Kirsch
+Rakia
+Schnapps
+Medronho
+Brandy
+Armagnac
+Cognac
+Metaxa
+Palinka
+Singani
+Pisco
+Poire Williams
+Williamine
+Damassine
+Slivovitz
+Ţuică
+Chambord
+Himbeergeist
+Gin
+ManX Spirit
+London dry gin
+Whisky
+Irish whiskey
+Japanese whisky
+Scotch whisky
+American Whiskey
+Alabama Whiskey
+Bourbon whiskey
+Tennessee whiskey
+Texas whiskey
+Canadian whisky
+American whiskey - Corsair
+Whisky
+American Whiskey (Colorado - High West)
+Jenever
+Damson gin
+Sloe gin
+Awamori
+Soju
+Mirin
+Shōchū
+Baijiu
+Maotai
+Kaoliang liquor
+Vodka
+Absinthe
+Herbsaint
+Schnapps
+Mezcal
+Tequila
+Akvavit
+Arak
+Rakı
+Arrack
+Ogogoro
+Freya Birch Spirit (Norway)
+Mamajuana
+Poitín
+Shōchū
+Baijiu
+Soju
+Berry liqueurs
+99 Berries
+Chambord
+Crème de cassis
+Guavaberry
+Hideous
+Lakka
+Lillehammer
+Mirto
+Murtado
+XUXU
+Og natura Stone Bramble Liqueur
+Chocolate liqueur
+Midnight Espresso coffee liqueur
+Allen's Coffee Brandy
+Black Canyon Distillery, Richardo's Decaf Coffee Liqueur[citation needed]
+Café Rica
+Kahlúa
+Kavalan Distillery Sweet Coffee Liqueur
+Kamora
+Licor de café
+Midnight Espresso Regular Coffee Liqueur
+Midnight Espresso Decaf Coffee Liqueur
+Mr Black Cold Brew Coffee Liqueur
+Patrón XO Cafe
+Sheridan's
+Sombai Liqueur Anise & Coffee
+Flor de Caña Spresso
+San Andre
+St. George Spirits NOLA Coffee Liqueur
+Tia Maria
+Toussaint Coffee Liqueur
+Advocaat
+Amarula
+Baileys Irish Cream
+Coole Swan Irish Cream Liqueur
+Carolans
+Crema Fina
+Cruzan Rum Cream
+Dooley's
+DV8 Gold
+DV8 Pink Gin
+Heather Cream
+Kerrygold Irish Cream Liqueur
+Ponche crema
+Rompope
+Sangster's
+Saint Brendan's Irish Cream Liqueur
+Tequila Rose
+Vana Tallinn Cream
+Vermeer Dutch Chocolate Cream Liqueur
+Voodoo Cream Liqueur
+Crème de banane
+Crème de cacao
+Crème de cassis
+Crème de Cerise
+Crème de menthe
+Crème de Noyaux
+Creme de violette
+Creme Yvette
+Parfait d'Amour
+Creme Yvette
+Rosolio
+St-Germain
+OM Vanilla & Rose Liqueur
+99 bananas
+Amarula
+Aurum
+Bajtra
+Blackberry bang
+Cherry Heering
+Cointreau
+Curaçao
+Cuarenta Y Tres/Licor 43
+Damson gin
+Ginjinha
+Grand Marnier
+GranGala
+Guignolet
+Hesperidina
+Hpnotiq
+Jabuticaba
+Kruškovac
+Kwai Feh
+Lichido
+Limoncello
+Manzana verde
+Maraschino
+Medronho
+Midori
+OM Coconut & Lychee Liqueur
+OM Meyer Lemon & Ginger Liqueur
+Noyau de Poissy
+Pama
+Passoã
+Pisang Ambon
+Pucker
+Rhythm
+Sloe gin
+Soho
+Sombai
+Sơn Tinh
+Triple sec
+TY KU
+Umeshu
+Van Der Hum
+Vișinată
+X-Rated Fusion Liqueur
+Aguardiente/Aguardente
+Anís
+Licor Aniz Escarchado
+Anisette
+Centerbe
+Galliano
+Herbsaint
+Passione Nera
+Pastis
+Patxaran
+Ricard
+Sambuca
+Sombai Liqueur Anise & Coffsee
+Vespetrò
+Xtabentún
+Demänovka
+Allasch
+Agwa de Bolivia
+Altvater
+Amaro
+Becherovka
+Beirão
+Barrow's Intense Ginger Liqueur
+Bénédictine
+Boilo
+Calisaya
+Canton
+Chartreuse
+Crème de menthe
+Cynar
+Danzig Goldwasser
+Everglo
+Fernet
+Galliano
+Gammel Dansk Bitter Dram
+Goldschläger
+Jaan Paan Liqueur
+Jägermeister
+Killepitsch
+the King's Ginger liqueur
+Krupnik
+Kümmel
+Mamajuana
+Mastica
+Mastichato
+Menta
+Metaxa
+Riga Black Balsam
+Singeverga
+Sơn Tinh
+Strega
+Underberg
+Unicum
+Yomeishu
+Rakomelo
+Bärenjäger
+Bénédictine
+Boilo
+Drambuie
+Irish Mist
+Krupnik
+Xtabentún
+Yukon Jack
+Amaretto
+Disaronno
+Frangelico
+Nocello
+Nocino
+Orahovac
+Peanut liqueur
+Peanut Lolita
+Pochteca Almond Liqueur
+Ratafia
+Rivulet
+Atholl Brose
+Bruadar
+Cock o' the North
+Drambuie
+Eblana
+Famous Grouse liqueur
+Fireball Cinnamon Whisky
+Forty Creek Premium Cream Liqueur
+Glayva
+Glenfiddich Malt liqueur
+Glenturret Malt liqueur
+Heaven Hill
+Irish Mist
+Jack Daniel's Tennessee Honey
+Jeremiah Weed
+Jim Beam Honey
+Jim Beam Red Stag
+Lochan Ora
+Murray Scottish Highland Liqueur
+Mystic Bourbon Liqueur
+Old Pulteney liqueur
+Orangerie
+Rock and Rye
+Sortilège Maple Whiskey Liqueur
+Stag's Breath
+Southern Comfort
+Wallace Liqueur
+Wild Turkey American Honey
+Yukon Jack
+Advocaat
+After Shock
+Agnes
+Amaretto
+Ancho Reyes
+Armada
+Aurum
+Baczewski
+Bärenfang
+Beechleaf noyau
+Bloody Oath
+Campari
+Cynar
+Damiana
+Gabriel
+Génépi
+Izarra
+Jumbie
+Kajmir
+kareek rum
+Kännu Kukk
+Licor de oro
+Liqueurs de Sodabi
+Mesi
+Palm wine
+Patxaran
+Pimento
+Returner
+Qi
+Qi White
+Rumpleminze
+Salmiakki Koskenkorva
+Sève Fournier
+Sơn Tinh
+Sorel or Sorrel
+Tuaca
+TY KU
+Vana Tallinn
+Vov
+Voyant Chai Cream
+Y Chilli
+Coffee
+Energy drink
+Iced tea
+Bitter lemon
+Carbonated water
+Cola
+Ginger ale
+Ginger beer
+Hoppy
+Lemon Sour
+Lemon–lime soda
+Tonic water
+Cream
+Eggnog
+Half and half
+Ice cream
+Milk
+Apple cider
+Coconut milk
+Coconut water
+Cranberry juice
+Grape juice
+Grapefruit juice
+Lemon juice
+Lemonade
+Lime juice
+Limeade
+Olive juice
+Orange juice
+Pineapple juice
+Tomato juice
+Wheatgrass juice
+Honey
+Hot sauce
+Worcestershire sauce
+Grenadine syrup
+Demerara syrup
+Falernum
+Fassionola
+Lime juice
+Orgeat
+Simple syrup
+Sour mix
+Squash
+Egg
+Sports drink
